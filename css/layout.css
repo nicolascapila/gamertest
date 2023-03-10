@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color: rgb(123, 42, 230);
+    border-image: auto;
+}
+
+.cabecalho{
+    padding: 30px;
+    text-align: center;
+    background-color: rgb(255, 246, 246);
+}
+
+.cabecalho h1{
+    font-size: 50px;
+}
+
+.topnav{
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+}
+/*formatando o link do topnav*/
+.topnav a {
+    display:block;
+    color: rgb(221, 10, 38);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: nome;
+}
+.topnav a:hover{
+background-color: rgb(209, 212, 31);
+color:blueviolet;
+border: rgb(40, 228, 218) solid 2px;
+box-shadow: rgb(218, 31, 31) 1px 4px;
+border-radius: 10px;
+}
