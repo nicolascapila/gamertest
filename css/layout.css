@@ -31,12 +31,14 @@ body{
 .cabecalho{
     padding: 30px 5px;
     text-align: center;
-    background-color: rgb(221, 12, 12);
+    background-color: gray;
+    font-family: 'Lora', serif;
 }
 
 .cabecalho h1{
     font-size: 50px;
-    font-family: 'Climate Crisis', cursive;
+    font-family: 'Lora', serif;
+    color: rgb(255, 255, 255);
 }
 
 .topnav{
@@ -54,7 +56,7 @@ body{
     text-decoration: nome;
 }
 .topnav a:hover{
-background-color: rgb(170, 32, 32);
+background-color: white;
 color:rgb(28, 196, 37);
 border: rgb(240, 240, 240) solid 2px;
 box-shadow: rgb(228, 228, 228) 1px 4px;
@@ -70,6 +72,7 @@ border-radius: 10px;
     width: 1500px;
     margin: 0 auto;
     background-color: aliceblue;
+    margin-top: 20px;
 }
 
 .card2{
