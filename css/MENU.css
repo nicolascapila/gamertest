@@ -1,7 +1,13 @@
 .cabecalho{
-    padding: 30px;
+    margin-top: 40px;
+    padding: 30px 5px;
     text-align: center;
     background-color: rgb(221, 12, 12);
+}
+
+
+*{
+    box-sizing: border-box;
 }
 
 .topnav{
@@ -19,19 +25,14 @@
     text-decoration: nome;
 }
 .topnav a:hover{
-background-color: rgb(170, 32, 32);
-color:rgb(8, 4, 12);
-border: rgb(240, 240, 240) solid 2px;
-box-shadow: rgb(228, 228, 228) 1px 4px;
-border-radius: 10px;
+    background-color: white;
+    color:rgb(28, 196, 37);
+    border: rgb(240, 240, 240) solid 2px;
+    box-shadow: rgb(228, 228, 228) 1px 4px;
+    border-radius: 10px;
 }
 
 *{
     box-sizing: border-box;
 }
 
-.principal{
-    width: 1500px;
-    margin: 0 auto;
-    background-color: aliceblue;
-}

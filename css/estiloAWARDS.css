@@ -4,7 +4,20 @@ body{
     background-size: 100%;
 
     background-color: white;
-    color: black; 
+    color: white; 
 
     
+}
+
+.formatacao{
+    width: 1500px;
+    margin: 0 auto;
+    background-color: aliceblue;
+}
+
+.principal{
+    margin-top: 10px;
+    background-color: white;
+    color: black    ;
+   
 }
