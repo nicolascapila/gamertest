@@ -1,0 +1,23 @@
+.principal{
+    padding: 5px 15px;
+    background-color: white;
+    color: black;
+    width: 1200px;  
+    margin: 20px auto;  
+}
+
+.cabecalho{
+    margin: 0px auto;
+    padding: 30px 5px;
+    text-align: center;
+    background-color: gray;
+    font-family: 'Lora', serif;
+    width: 1200px;
+}
+.topnav{
+    
+    overflow: hidden;
+    background-color: rgb(29, 44, 173);
+    width: 1200px;
+    margin: auto;
+}

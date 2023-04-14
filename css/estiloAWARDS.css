@@ -1,6 +1,6 @@
 body{
     background-image: url("../imagens/imagem\ principal.jpeg");
-    background-repeat: no-repeat;
+    background-repeat: repeat;
     background-size: 100%;
 
     background-color: white;
@@ -20,4 +20,8 @@ body{
     background-color: white;
     color: black    ;
    
+}
+
+.card1{
+    font-size: 23px;
 }
